@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0482-license-key-formatting](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0482-license-key-formatting) |
 | [0851-goat-latin](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0851-goat-latin) |
 ## Hash Table
 |  |
