@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Array
+|  |
+| ------- |
+| [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
+## Math
+|  |
+| ------- |
+| [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 <!---LeetCode Topics End-->
