@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0482-license-key-formatting](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
