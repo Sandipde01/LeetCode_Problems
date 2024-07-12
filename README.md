@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
