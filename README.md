@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
+| [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1287-distance-between-bus-stops](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1287-distance-between-bus-stops) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
