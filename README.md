@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Design
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
@@ -79,4 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+## Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
