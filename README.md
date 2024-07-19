@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1287-distance-between-bus-stops](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1287-distance-between-bus-stops) |
+| [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
