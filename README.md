@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 | [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
