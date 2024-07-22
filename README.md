@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0851-goat-latin](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 ## Design
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1287-distance-between-bus-stops](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
+| [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
