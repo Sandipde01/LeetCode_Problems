@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
