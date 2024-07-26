@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0851-goat-latin](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 ## Design
 |  |
