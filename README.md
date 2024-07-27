@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
