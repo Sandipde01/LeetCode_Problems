@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0482-license-key-formatting](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0482-license-key-formatting) |
