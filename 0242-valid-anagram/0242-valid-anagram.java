@@ -8,8 +8,12 @@ class Solution {
         for(int i=0; i<t.length(); i++){
             char c = t.charAt(i);
             if(hm.containsKey(c)){
-                if(hm.get(c) == 1) hm.remove(c);
-                else hm.put(c, hm.get(c) - 1);
+                if(hm.get(c) == 1) {
+                hm.remove(c);
+                }
+                else{
+                 hm.put(c, hm.get(c)-1 );
+                }
             }
             else return false;
         }
