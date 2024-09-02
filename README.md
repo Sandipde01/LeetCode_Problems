@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 ## Greedy
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Interactive
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
