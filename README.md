@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1287-distance-between-bus-stops](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1646-kth-missing-positive-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
 ## Greedy
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
