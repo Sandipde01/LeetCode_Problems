@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1646-kth-missing-positive-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2547-odd-string-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2547-odd-string-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
+| [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Enumeration
 |  |
