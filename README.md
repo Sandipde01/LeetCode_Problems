@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
