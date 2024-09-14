@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0837-most-common-word](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 | [0724-find-pivot-index](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1306-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -186,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
