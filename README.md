@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
