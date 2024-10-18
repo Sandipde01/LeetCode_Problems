@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0598-range-addition-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sandipde01/LeetCode_Problems/tree/master/1395-minimum-time-visiting-all-points) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sandipde01/LeetCode_Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
