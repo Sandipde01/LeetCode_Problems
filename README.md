@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0053-maximum-subarray) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
