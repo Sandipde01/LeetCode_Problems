@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0268-missing-number) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0047-permutations-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sandipde01/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
